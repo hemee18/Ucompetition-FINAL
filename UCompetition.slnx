@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="UCompetition.DataAccess/UCompetition.DataAccess.csproj" />
+  <Project Path="UCompetition.DataEntities/UCompetition.DataEntities.csproj" />
+  <Project Path="UCompetition.DataFramework/UCompetition.DataFramework.csproj" />
+  <Project Path="UCompetition.Facade/UCompetition.Facade.csproj" />
+  <Project Path="UCompetition.Web.UI/UCompetition.Web.UI.csproj" />
+</Solution>
